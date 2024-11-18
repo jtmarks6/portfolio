@@ -13,7 +13,7 @@ const Quorra: FC = () => {
             <li><strong>8:00am:</strong> Feed breakfast 1-1.5 cups kibble (optional: 6 blueberries and/or peeled large carrot)</li>
             <li><strong>8:05-8:10am:</strong> Bathroom</li>
             <li>
-              <strong>8:10-8:45am:</strong> Walk/run, feed treats during walk, don't run until near the end of the walk (dog shouldn't exercise hard within 30 minutes of eating)
+              <strong>8:10-8:45am:</strong> Walk/run, feed treats during walk, don&apos;t run until near the end of the walk (dog shouldn&apos;t exercise hard within 30 minutes of eating)
             </li>
             <li><strong>8:45-10am:</strong> Chill around house/play</li>
             <li><strong>10:30am:</strong> Bathroom then in crate</li>
@@ -39,8 +39,8 @@ const Quorra: FC = () => {
           <ul className="list-disc list-inside text-gray-600">
             <li>Train anytime, mostly reward good behaviors (e.g., settling, asking to go out).</li>
             <li>Use treats at the right hip during walks.</li>
-            <li>Don’t repeat commands; use hand motions or wait.</li>
-            <li>Say "good" immediately after correct action; treat can be delayed.</li>
+            <li>Don&apos;t repeat commands; use hand motions or wait.</li>
+            <li>Say &quot;good&quot; immediately after correct action; treat can be delayed.</li>
             <li>Sessions: 5-10 minutes max.</li>
             <li>Pinch treats to avoid nipping; no treats visible until after command.</li>
           </ul>
@@ -49,7 +49,7 @@ const Quorra: FC = () => {
         <section className="mb-6">
           <h2 className="text-2xl font-semibold text-gray-700 mb-2">Bathroom</h2>
           <ul className="list-disc list-inside text-gray-600">
-            <li>Rings doorbells to go out; say "good" when she does.</li>
+            <li>Rings doorbells to go out; say &quot;good&quot; when she does.</li>
             <li>Pees every 2-3 hours out of crate; 3-6 hours in crate.</li>
             <li>Bathroom immediately after crate or short nap.</li>
           </ul>
@@ -59,7 +59,7 @@ const Quorra: FC = () => {
           <h2 className="text-2xl font-semibold text-gray-700 mb-2">Crate</h2>
           <ul className="list-disc list-inside text-gray-600">
             <li>Use crate when unsupervised for more than 1 minute.</li>
-            <li>Command with "crate" and treat; throw treats if needed.</li>
+            <li>Command with &quot;crate&quot; and treat; throw treats if needed.</li>
             <li>Settle within 1-2 minutes; ignore banging to avoid encouraging bad behavior.</li>
             <li>Snuggle pup should always be in crate.</li>
           </ul>
